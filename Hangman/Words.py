@@ -1,1 +1,2 @@
-listOfWords = ['one', 'two', 'hey', 'lol', 'dude']
+listOfWords = ['one', 'two', 'hey', 'lol', 'dude', 'another'
+, 'set', 'of', 'words']
